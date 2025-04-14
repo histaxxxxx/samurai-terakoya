@@ -1,0 +1,24 @@
+html{
+  font-size: 20px;
+}
+body {
+  font-family: "Arial", "Meiryo", sans-serif;
+  text-align: center;
+}
+
+/* classをセレクタに指定するときは先頭に「.（ドット）」をつけます */
+.blue{
+  color: skyblue;
+}
+.pink{
+  color: rgb(255, 192, 205);
+}
+h1{font-family: "josefin sans",sans-serif;
+font: size 2rem;
+letter-spacing: 1.2em;
+text-shadow: 3px 3px 2px gray;
+border-bottom: solid 3px rgb(115, 115, 114);
+}
+#basic>p{
+font-weight:bold;
+}
