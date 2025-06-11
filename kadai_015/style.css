@@ -1,20 +1,20 @@
 html{
-  font-size: 20px;
+  font-size: 16px;
 }
 body {
   font-family: "Arial", "Meiryo", sans-serif;
-  text-align: center;
+  color: #333333;
 }
 
 /* classをセレクタに指定するときは先頭に「.（ドット）」をつけます */
 .blue{
-  color: skyblue;
+  color: #0066CC;
 }
 .pink{
-  color: rgb(255, 192, 205);
+  color: rgb(255, 192, 203);
 }
-h1{font-family: "josefin sans",sans-serif;
-font: size 2rem;
+h1{font-family: "Josefin sans",sans-serif;
+font-size: 32px;
 letter-spacing: 1.2em;
 text-shadow: 3px 3px 2px gray;
 border-bottom: solid 3px rgb(115, 115, 114);
